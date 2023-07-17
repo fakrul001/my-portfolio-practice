@@ -151,7 +151,7 @@ header{
 
 @media screen and (max-width:576px) {
     .about-container{
-        margin-top: 250px;
+        margin-top: 50px;
     }
     .about-description{
         padding: 30px 30px 0 30px;
